@@ -2,3 +2,12 @@
   text-decoration: none;
   color: white;
 }
+
+.footer__column-link:hover {
+  opacity: 0.5;
+  transition: opacity .15s ease-in-out;
+  -webkit-transition: opacity .15s ease-in-out;
+  -moz-transition: opacity .15s ease-in-out;
+  -ms-transition: opacity .15s ease-in-out;
+  -o-transition: opacity .15s ease-in-out;
+}

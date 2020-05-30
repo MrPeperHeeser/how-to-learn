@@ -13,5 +13,5 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
+  overflow: hidden;
 }
