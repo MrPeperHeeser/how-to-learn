@@ -4,6 +4,7 @@
   width: 240px;
   color: black;
   margin-right: 100px;
+  list-style-type: none;
 }
 
 .cards__item:nth-of-type(3) {
